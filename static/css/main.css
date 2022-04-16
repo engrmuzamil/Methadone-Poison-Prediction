@@ -1,0 +1,27 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #4b504c;
+  color: white;
+
+}
+
+.Title {
+  background-color:white;
+  color: #4b504c;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-color: rgba(0, 0, 0, 0.904);
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+.MyBtn {
+  background-color: rgb(33, 78, 11);
+  color: rgba(255, 255, 255, 0.904);
+  border-radius: 10px;
+  padding: 1em;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  font-weight: bold;
+}
